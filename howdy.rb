@@ -1,3 +1,6 @@
 #/goodbye.rb
 
-pp "Hello World"
+my_string = "Hello, world!"
+pp my_string
+
+require "./goodbye.rb"
