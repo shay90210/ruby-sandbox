@@ -1,6 +1,6 @@
-/#Gemfile
+#/Gemfile
 
-source "https:rubygems.org"
+source "https://rubygems.org"
 
 gem "activesupport"
 gem "awesome_print"
