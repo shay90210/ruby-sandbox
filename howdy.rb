@@ -6,6 +6,7 @@ pp my_string
 require "./goodbye.rb"
 require "active_support/all"
 
+'''
 pp 1.ordinalize
 pp 2.ordinalize
 pp 53.ordinalize
@@ -20,3 +21,8 @@ pp "equipment".pluralize
 pp "tables".singularize
 pp "rubies".singularize
 pp "equipments".singularize
+'''
+pp "What's your name?"
+their_name = gets
+
+pp "Hello, " + their_name + "!"
